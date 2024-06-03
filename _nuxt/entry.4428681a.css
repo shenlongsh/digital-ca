@@ -1,0 +1,1 @@
+.mygrid{display:grid;grid-template-columns:max-content 1fr}#a123{margin-right:calc(100% - 100vw)}
