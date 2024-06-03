@@ -1,8 +1,8 @@
 {
-    "name": "数字证书及秘钥管理",
+    "name": "创建秘钥和颁发数字证书",
     "short_name": "数字证书",
     "start_url": "/digital-ca/?standalone=true",
-    "description":"此网页能创建RSA-PSS密钥对和ECDSA密钥对，并能用密钥对中的私钥对信息进行签名，然后用公钥进行验证。",
+    "description":"此网页能创建RSA密钥和ECDSA密钥，使用秘钥创建证书签名请求，并能用密钥对CSR签发数字证书。",
     "id": "?homescreen=1",
     "display": "standalone",
     "background_color": "#ffffff",
