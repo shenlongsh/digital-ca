@@ -7,7 +7,7 @@ if (workbox) {
 //修改默认配置
 workbox.core.setCacheNameDetails({
     prefix: 'app',
-    suffix: 'v1.1',
+    suffix: 'v1.2',
     precache: 'precache',
     runtime: 'runtime'
   })
